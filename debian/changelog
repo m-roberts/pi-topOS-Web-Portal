@@ -1,3 +1,14 @@
+pi-top-os-web-portal (0.17.0-2) bullseye; urgency=medium
+
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+  * Point to forked Debian package building action arm64 branch
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 13:05:15 +0000
+
 pi-top-os-web-portal (0.17.0-1) bullseye; urgency=medium
 
   * refactor: use new core in miniscreen onboarding
